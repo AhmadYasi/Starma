@@ -1,0 +1,3 @@
+Cluster,Size,Problematic_Ratio,High_Self_Citation,High_Uncited_Docs,Low_SJR,Suspicion_Score
+0,18125,0.45969964177459355,False,True,True,2
+1,4975,0.06943046890722479,False,False,True,1
