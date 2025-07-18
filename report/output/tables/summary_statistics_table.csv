@@ -1,0 +1,7 @@
+Metric,Value,Description
+Total Journals,"27,107",Total number of journals analyzed
+Legitimate Journals,"18,983 (70.0%)",Journals classified as legitimate
+Problematic Journals,"8,124 (30.0%)",Journals flagged as potentially problematic
+Significant Differences,10/11,Metrics with statistically significant differences
+Best Model Accuracy,0.954,Highest classification accuracy achieved
+Best Model F1-Score,0.967,Best balance of precision and recall
